@@ -1,5 +1,5 @@
 ## Subdomain-Scanner.
-- Mensionei no exemplo a página http://businesscorp.com.br que usei no curso Pentest profissional da Desec Security.
+- Mencionei no exemplo a página http://businesscorp.com.br que usei no curso Pentest profissional da Desec Security.
 - Esse programa tem a função de encontrar subdominios, traz também o IP e o status code da aplicação encontrada.
   
 ### Exemplo de uso:
